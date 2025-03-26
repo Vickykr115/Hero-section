@@ -61,9 +61,9 @@ This project is a pixel-perfect implementation of a Hero Section based on a Figm
 ```
 
 ## Deployment
-To deploy this project on **Vercel**:
+To deploy this project on **Netlify**:
 1. Push your code to GitHub.
-2. Go to **[Vercel](https://vercel.com/)** and import the repo.
+2. Go to **[Netkify](https://jazzy-alpaca-4c84a7.netlify.app/)** and import the repo.
 3. Click **Deploy** and your site will be live!
 
 ## Contributing
