@@ -24,7 +24,7 @@ This project is a pixel-perfect implementation of a Hero Section based on a Figm
 
 1. **Clone the repository:**
 ```sh
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone (https://github.com/Vickykr115/Hero-section.git)
 ```
 
 2. **Navigate to the project directory:**
